@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="33cc2b2d-e457-4927-b369-add6dd818f30" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/CDK" beforeDir="false" afterPath="$PROJECT_DIR$/CDK" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDK/bin/cdk.ts" beforeDir="false" afterPath="$PROJECT_DIR$/CDK/bin/cdk.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDK/lib/cdk-stack.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/KafkaSpringBoot/example/demo/KafkaSpringBootApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/KafkaSpringBoot/example/demo/KafkaSpringBootApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/KafkaSpringBoot/example/demo/OrderSamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/KafkaSpringBoot/example/demo/OrderSamples.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/CDK/cdk.out/asset.136eccc0397a058359156324b19f4f04413cfcdfe4de653d27bfa75af5f9c104">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/CDK/cdk.out/asset.4ecd972586a36e2e3246935044658917e292b5a391f8ed4ed370c835c7185e1a">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/CDK/cdk.out/asset.5ff5a31f91e10f9c6970f127e92acdeab24089c7b4b36011adeddf4b46a4f964">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/CDK/cdk.out/asset.6a4582b15481dd48a333a03c85726a001b0bc6b0bb48af20a69c9b5e7a49139e">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/CDK/cdk.out/asset.993c2a4119e813afe80a61711d2164ba680eb47955d477dafec2df6571a7b796">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/CDK/cdk.out/asset.f9e3a6983cac43958d4196ad1bce5603fa56cda4d77ece2d475312a13f3e677e">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/demo">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="demo" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2lgfTaJha5MFM4gqpQ9pMPHUnCk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.demo [:KafkaSpringBoot.example.demo.KafkaSpringBootApplication.main()].executor": "Run",
+    "Gradle.demo.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "08199b73",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/stepesch/Desktop/Non-Customer-Projects/TFC_Stuff/MSK_SpringBoot_customized"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/demo" />
+      <recent name="$PROJECT_DIR$/demo/src/main/resources" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="33cc2b2d-e457-4927-b369-add6dd818f30" name="Changes" comment="" />
+      <created>1725606648784</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725606648784</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-core" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.kafka:kafka_2.13" />
+    <option featureType="dependencySupport" implementationName="java:jakarta.validation:jakarta.validation-api" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.integration:spring-integration-core" />
+    <option featureType="dependencySupport" implementationName="java:io.projectreactor:reactor-core" />
+    <option featureType="dependencySupport" implementationName="executable:kubectl" />
+    <option featureType="dependencySupport" implementationName="java:org.hibernate.validator:hibernate-validator" />
+    <option featureType="dependencySupport" implementationName="executable:terraform" />
+    <option featureType="dependencySupport" implementationName="java:org.projectlombok:lombok" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.cloud:spring-cloud-stream" />
+    <option featureType="dependencySupport" implementationName="executable:docker" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-messaging" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.boot:spring-boot" />
+  </component>
+</project>
